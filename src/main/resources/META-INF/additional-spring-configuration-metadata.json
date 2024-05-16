@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "spring.jpa.hibernate.jdbc.lob.non_contextual_creation",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.hibernate.jdbc.lob.non_contextual_creation'"
+  },
+  {
+    "name": "api.security.token.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'api.security.token.secret'"
+  },
+  {
+    "name": "contato.disco.raiz",
+    "type": "java.lang.String",
+    "description": "A description for 'contato.disco.raiz'"
+  },
+  {
+    "name": "contato.disco.diretorio-fotos",
+    "type": "java.lang.String",
+    "description": "A description for 'contato.disco.diretorio-fotos'"
+  },
+  {
+    "name": "contato.disco.diretorio-qr",
+    "type": "java.lang.String",
+    "description": "A description for 'contato.disco.diretorio-qr'"
+  }
+]}
